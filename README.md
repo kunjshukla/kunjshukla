@@ -4,7 +4,32 @@ Hi 👋 My name is Kunj Shukla
 Generative AI Developer/ AI Automation Engineer
 -----------------------------------------------
 
-I'm an AI Engineer and full-stack developer passionate about building AI-first products that solve real-world problems. I specialize in LLM-based systems, automation, and intelligent interfaces, blending deep tech with practical applications. 🧠 My Focus Areas Conversational & Reasoning Agents – Multi-agent systems with AutoGen, LangChain, and OpenAI Generative AI – Summarizers, prompt-driven tools, RAG pipelines, AI-powered help desks Voice AI – Voice-to-intent pipelines, Whisper integration, Twilio automation Automation Engineering – n8n, Zapier, Google Calendar APIs for streamlining business workflows Frontend for AI – Building intuitive AI UIs using Streamlit, React, and TailwindCSS ⚙️ Tools & Technologies I Work With AI/ML: OpenAI APIs, Gemini Pro, HuggingFace, LangChain, Whisper, CLIP Backend: FastAPI, Flask, RESTful APIs Frontend: Streamlit, React.js, TailwindCSS Automation: Twilio, Zapier, n8n, Google Calendar API Databases: Firebase, MongoDB 📌 Highlight Projects 🎙️ VoiceWMS – Voice-controlled warehouse system integrated with GreaterWMS & Twilio 📹 YouTube Summarizer – Transcribes & summarizes videos using Whisper + Gemini AI 🗞️ NewsDigest AI – RAG-powered news explainer using DeepSeek and LangChain 🧠 Cognitive Stress Detection – Audio + NLP pipeline for early detection of mental fatigue 🤖 AI Help Desk – Multi-agent support system with memory + structured workflows
+I'm an AI Engineer and full-stack developer passionate about building AI-first products that solve real-world problems. I specialize in LLM-based systems, automation, and intelligent interfaces, blending deep tech with practical applications.
+
+🧠 My Focus Areas
+
+-Conversational & Reasoning Agents – Multi-agent systems with AutoGen, LangChain, and OpenAI<br>
+-Generative AI – Summarizers, prompt-driven tools, RAG pipelines, AI-powered help desks<br>
+-Voice AI – Voice-to-intent pipelines, Whisper integration, Twilio automation<br>
+-Automation Engineering – n8n, Zapier, Google Calendar APIs for streamlining business workflows<br>
+-Frontend for AI – Building intuitive AI UIs using Streamlit, React, and TailwindCSS<br>
+
+⚙️ Tools & Technologies I Work With<br>
+
+-AI/ML: OpenAI APIs, Gemini Pro, HuggingFace, LangChain, Whisper, CLIP<br>
+-Backend: FastAPI, Flask, RESTful APIs<br>
+-Frontend: Streamlit, React.js, TailwindCSS<br> 
+-Automation: Twilio, Zapier, n8n, Google Calendar API<br> 
+-Databases: Firebase, MongoDB <br>
+
+📌 Highlight Projects 
+
+🎙️ VoiceWMS – Voice-controlled warehouse system integrated with GreaterWMS & Twilio<br>
+📹 YouTube Summarizer – Transcribes & summarizes videos using Whisper + Gemini AI<br>
+🗞️ NewsDigest AI – RAG-powered news explainer using DeepSeek and LangChain<br>
+🧠 Cognitive Stress Detection – Audio + NLP pipeline for early detection of mental fatigue<br>
+🤖 AI Help Desk – Multi-agent support system with memory + structured workflows<br>
+
 
 *   🌍  I'm based in Gujarat, India
 *   ✉️  You can contact me at [shuklakunj09@gmail.com](mailto:shuklakunj09@gmail.com)
